@@ -3,7 +3,6 @@
 # Hello, I am Midnight! 👋
 
 I am a developer with knowledge in software development, game development, and more!
-Check out my friend [waffelz](https://github.com/waffelz0) too!
 
 ---
 
@@ -58,3 +57,5 @@ More information on ~~my website.~~ *(coming soon!)*
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
+
+<sub>Check out my friend [waffelz](https://github.com/waffelz0) too!</sub>
