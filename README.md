@@ -1,16 +1,8 @@
-<div align="center">
-
 # Hello, I am Midnight! 👋
 
-I am a developer with knowledge in software development, game development, and more!
+I make software in my free time <3
 
 ---
-
-### Contact & Info
-More information on ~~my website.~~ *(coming soon!)*
-
-</div>
-
 <br/>
 
 ## What I know...
